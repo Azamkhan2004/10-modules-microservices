@@ -1,0 +1,12 @@
+{
+  "name": "module-5-payment",
+  "version": "1.0.0",
+  "description": "Payment microservice for the 10-module Kubernetes project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
