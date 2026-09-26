@@ -1,0 +1,12 @@
+{
+  "name": "module-3-order",
+  "version": "1.0.0",
+  "description": "Order microservice for the 10-module Kubernetes project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
